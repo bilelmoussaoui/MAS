@@ -7,7 +7,8 @@ You will need to have those packages installed :
 - `python3-tkinter`
 
 ### How to use 
-You can see the a simulation using 
+You can start a simulation using 
+
 `python3 mas_sim.py`
 
 ### Configuration 
