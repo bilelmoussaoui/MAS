@@ -12,7 +12,7 @@ You can start a simulation using
 `python3 mas_sim.py`
 
 ### Configuration 
-You can edit `config.cfg` if you want different different conditions.
+You can edit `config.cfg` if you want different initial conditions.
 
 ### Screenshot
 ![User Interface](screenshot.png)
